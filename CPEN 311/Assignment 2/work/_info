@@ -1,0 +1,134 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc
+vFSM
+Z0 !s110 1549652775
+!i10b 1
+!s100 XlfP=TFDBlHP8g3;@3FJc1
+Iehhg3Q2A<4FQgG<S=EjEF3
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z2 dC:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Assignment 2
+Z3 w1549652772
+Z4 8C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Assignment 2/q2.v
+Z5 FC:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Assignment 2/q2.v
+L0 1
+Z6 OV;L;10.3c;59
+r1
+!s85 0
+31
+Z7 !s108 1549652775.278000
+Z8 !s107 C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Assignment 2/q2.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Assignment 2/q2.v|
+!i113 1
+Z10 o-work work
+n@f@s@m
+vfsm
+Z11 !s110 1549654572
+!i10b 1
+!s100 MEdekl=e_hzYYY:3kin<N0
+InGO0>?mfaE1KFBD`FFj862
+R1
+R2
+Z12 w1549650421
+Z13 8C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Assignment 2/q1.v
+Z14 FC:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Assignment 2/q1.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z15 !s108 1549654572.722000
+Z16 !s107 C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Assignment 2/q1.v|
+Z17 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Assignment 2/q1.v|
+!i113 1
+R10
+vFSM_tb
+R0
+!i10b 1
+!s100 Na9N?:2W]RVJe6E6gjh6z0
+IgcOO?k@Ca_z^eAUCULA??2
+R1
+R2
+R3
+R4
+R5
+L0 87
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+n@f@s@m_tb
+vfsm_tb
+R11
+!i10b 1
+!s100 UW1fV[Si@3zlgGb11]`X?1
+I3b8IiB2:GiL;Yl`VVh4l83
+R1
+R2
+R12
+R13
+R14
+L0 38
+R6
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 1
+R10
+vFSMQ2
+R11
+!i10b 1
+!s100 baclFJZR0:8259]o7eKWE1
+I^YZNV7a_R2bOP;5O9mTK02
+R1
+R2
+Z18 w1549654569
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+Z19 !s108 1549654572.825000
+R8
+R9
+!i113 1
+R10
+n@f@s@m@q2
+vFSMQ2_tb
+R11
+!i10b 1
+!s100 Y:]DZ=zj7jOHS]g94lIf42
+I]TB;6b[z818VoQUFZiWIh1
+R1
+R2
+R18
+R4
+R5
+L0 94
+R6
+r1
+!s85 0
+31
+R19
+R8
+R9
+!i113 1
+R10
+n@f@s@m@q2_tb

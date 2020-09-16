@@ -1,0 +1,90 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera/14.1
+vregister
+Z0 !s110 1551123841
+!i10b 1
+!s100 W>Q@90MO^Gd4N<F:2U^R03
+IUL0EY[?ffaRiZIObe[aR73
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z2 dC:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Assignment 3
+Z3 w1551120346
+Z4 8C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Assignment 3/Question A.v
+Z5 FC:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Assignment 3/Question A.v
+L0 99
+Z6 OV;L;10.3c;59
+r1
+!s85 0
+31
+Z7 !s108 1551123841.124000
+Z8 !s107 C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Assignment 3/Question A.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Assignment 3/Question A.v|
+!i113 1
+Z10 o-work work
+vshared_access_tb
+R0
+!i10b 1
+!s100 Ab1kT2N4D3IbnEz21LNGJ1
+IP2Pc1QAFILU`1DmFamHl10
+R1
+R2
+w1551122617
+8C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Assignment 3/Question A_TB.v
+FC:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Assignment 3/Question A_TB.v
+L0 3
+R6
+r1
+!s85 0
+31
+!s108 1551123841.046000
+!s107 C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Assignment 3/Question A_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Assignment 3/Question A_TB.v|
+!i113 1
+R10
+vshared_access_to_one_state_machine
+R0
+!i10b 1
+!s100 1TU=6lYkSDNcTBMG^J9@c3
+Ic5U]A^48lI9a7c[Ng?jjh2
+R1
+R2
+R3
+R4
+R5
+L0 13
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vtrap_edge
+R0
+!i10b 1
+!s100 @eYQnBIO=;2UGGdCn[MfW3
+IR2=Tbg=M;T`J3a[?i985Z1
+R1
+R2
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10

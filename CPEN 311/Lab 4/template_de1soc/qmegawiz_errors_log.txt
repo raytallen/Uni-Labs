@@ -1,0 +1,13 @@
+
+
+C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc/s_memory.vhd
+
+Mar 14 10PM:33:21>: The following design file, which has identical name but a different extension 
+from the specified variation file, already exists in the working directory:
+
+s_memory.v
+
+This may create a conflict of design files and/or lead to undesirable side
+effects.
+
+Is it OK to continue file generation?

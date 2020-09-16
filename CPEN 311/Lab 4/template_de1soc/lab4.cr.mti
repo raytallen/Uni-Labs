@@ -1,0 +1,31 @@
+{C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc/s_memory.v} {1 {vlog -work work -stats=none {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc/s_memory.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module s_memory
+
+Top level modules:
+	s_memory
+
+} {} {}} {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc/SevenSegmentDisplayDecoder.v} {1 {vlog -work work -stats=none {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc/SevenSegmentDisplayDecoder.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module SevenSegmentDisplayDecoder
+
+Top level modules:
+	SevenSegmentDisplayDecoder
+
+} {} {}} {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc/testbenches.v} {1 {vlog -work work -stats=none {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc/testbenches.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module initialize_memory_TB
+-- Compiling module KSA_TB
+
+Top level modules:
+	initialize_memory_TB
+	KSA_TB
+
+} {} {}} {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc/fakeMem.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc/fakeMem.sv}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module fakeMem
+
+Top level modules:
+	fakeMem
+
+} {} {}}

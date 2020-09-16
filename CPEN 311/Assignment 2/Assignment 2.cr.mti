@@ -1,0 +1,17 @@
+{C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Assignment 2/q1.v} {1 {vlog -work work -stats=none {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Assignment 2/q1.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module fsm
+-- Compiling module fsm_tb
+
+Top level modules:
+	fsm_tb
+
+} {} {}} {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Assignment 2/q2.v} {1 {vlog -work work -stats=none {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Assignment 2/q2.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module FSMQ2
+-- Compiling module FSMQ2_tb
+
+Top level modules:
+	FSMQ2_tb
+
+} {} {}}

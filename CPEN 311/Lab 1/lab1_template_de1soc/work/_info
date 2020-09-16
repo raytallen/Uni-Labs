@@ -1,0 +1,153 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/simulation/modelsim
+vdoublesync
+Z0 !s110 1548176518
+!i10b 1
+!s100 h[h?dcIHcN;P79NdP34S[0
+IP87>_ci@KCk3Ob1=g;o3o3
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z2 dC:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc
+Z3 w1460577992
+8C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/doublesync.v
+FC:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/doublesync.v
+L0 1
+Z4 OV;L;10.3c;59
+r1
+!s85 0
+31
+!s108 1548176518.494000
+!s107 C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/doublesync.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/doublesync.v|
+!i113 1
+Z5 o-work work
+vGenerate_Arbitrary_Divided_Clk32
+R0
+!i10b 1
+!s100 m?TczZiOfa[G>1ZD>FW5D1
+I;@9ComD`fnJ9PV1GgIKCW0
+R1
+R2
+w1548176512
+8C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/Generate_Arbitrary_Divided_Clk32.v
+FC:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/Generate_Arbitrary_Divided_Clk32.v
+L0 20
+R4
+r1
+!s85 0
+31
+!s108 1548176518.595000
+!s107 C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/Generate_Arbitrary_Divided_Clk32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/Generate_Arbitrary_Divided_Clk32.v|
+!i113 1
+R5
+n@generate_@arbitrary_@divided_@clk32
+vGenerate_Arbitrary_Divided_Clk32_TB
+R0
+!i10b 1
+!s100 oZND>iP5`aM6kniEaRBHc3
+IJf0DU8CTRz490Gnh_ChQ=0
+R1
+R2
+Z6 w1548175304
+Z7 8C:\Users\Ray\OneDrive\Documents\School\3rd Year\CPEN 311\Lab 1\lab1_template_de1soc\testbench.v
+Z8 FC:\Users\Ray\OneDrive\Documents\School\3rd Year\CPEN 311\Lab 1\lab1_template_de1soc\testbench.v
+L0 7
+R4
+r1
+!s85 0
+31
+Z9 !s108 1548176518.929000
+Z10 !s107 C:\Users\Ray\OneDrive\Documents\School\3rd Year\CPEN 311\Lab 1\lab1_template_de1soc\testbench.v|
+Z11 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Ray\OneDrive\Documents\School\3rd Year\CPEN 311\Lab 1\lab1_template_de1soc\testbench.v|
+!i113 1
+R5
+n@generate_@arbitrary_@divided_@clk32_@t@b
+vlab1_tb
+R0
+!i10b 1
+!s100 1kPS58Rka]8AzBMV^1d4M2
+IhXY;JO6I?:iL7l;EGgH?J2
+R1
+R2
+R6
+R7
+R8
+L0 2
+R4
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R5
+vLCD_Scope_Encapsulated_pacoblaze_wrapper
+R0
+!i10b 1
+!s100 FoFm9Xbm^6EPmFgPLScoo1
+Ij?zfBCg2O>aaab[k_7<[O2
+R1
+R2
+w1462691686
+8C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/LCD_Scope_Encapsulated_pacoblaze_wrapper.v
+FC:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/LCD_Scope_Encapsulated_pacoblaze_wrapper.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1548176518.699000
+!s107 C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/LCD_Scope_Encapsulated_pacoblaze_wrapper.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/LCD_Scope_Encapsulated_pacoblaze_wrapper.v|
+!i113 1
+R5
+n@l@c@d_@scope_@encapsulated_pacoblaze_wrapper
+vscope_capture
+R0
+!i10b 1
+!s100 JXL=j4XY_dkkJ;lFYJCej2
+IEziML_Ed8joRW`dCD]QFR3
+R1
+R2
+R3
+8C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/scope_capture.v
+FC:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/scope_capture.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1548176518.812000
+!s107 C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/scope_capture.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/scope_capture.v|
+!i113 1
+R5
+vwidereg
+R0
+!i10b 1
+!s100 z;jGJN]RgGA;2BeodJ;5K1
+I]C0LRzX2aVcNili=OYdcj1
+R1
+R2
+R3
+8C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/widereg.v
+FC:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/widereg.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1548176518.185000
+!s107 C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/widereg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/widereg.v|
+!i113 1
+R5

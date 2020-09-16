@@ -1,0 +1,67 @@
+{C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/widereg.v} {1 {vlog -work work -stats=none {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/widereg.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module widereg
+
+Top level modules:
+	widereg
+
+} {} {}} {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/Generate_Arbitrary_Divided_Clk32.v} {1 {vlog -work work -stats=none {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/Generate_Arbitrary_Divided_Clk32.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module Generate_Arbitrary_Divided_Clk32
+
+Top level modules:
+	Generate_Arbitrary_Divided_Clk32
+
+} {} {}} {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/testbench.v} {1 {vlog -work work -stats=none {C:\Users\Ray\OneDrive\Documents\School\3rd Year\CPEN 311\Lab 1\lab1_template_de1soc\testbench.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module lab1_tb
+-- Compiling module Generate_Arbitrary_Divided_Clk32_TB
+
+Top level modules:
+	lab1_tb
+	Generate_Arbitrary_Divided_Clk32_TB
+
+} {} {}} {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/Basic_Organ_Solution.v} {0 {vlog -work work -stats=none {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/Basic_Organ_Solution.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module Basic_Organ_Solution
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/Basic_Organ_Solution.v(87): near ";": Syntax error.
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/Basic_Organ_Solution.v(348): near ";": Syntax error.
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/Basic_Organ_Solution.v(349): near ";": Syntax error.
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/Basic_Organ_Solution.v(454): (vlog-2730) Undefined variable: 'speed_up_event_trigger'.
+
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/Basic_Organ_Solution.v(459): (vlog-2730) Undefined variable: 'speed_down_event_trigger'.
+
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/Basic_Organ_Solution.v(471): (vlog-2388) 'speed_up_event_trigger' already declared in this scope (Basic_Organ_Solution).
+
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/Basic_Organ_Solution.v(472): (vlog-2388) 'speed_down_event_trigger' already declared in this scope (Basic_Organ_Solution).
+
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/Basic_Organ_Solution.v(511): near "[": syntax error, unexpected '[', expecting IDENTIFIER or TYPE_IDENTIFIER
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/Basic_Organ_Solution.v(521): near "[": syntax error, unexpected '[', expecting IDENTIFIER or TYPE_IDENTIFIER
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/Basic_Organ_Solution.v(524): (vlog-2730) Undefined variable: 'Seven_Seg_Val'.
+
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/Basic_Organ_Solution.v(524): (vlog-2730) Undefined variable: 'Seven_Seg_Data'.
+
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/Basic_Organ_Solution.v(548): near "[": syntax error, unexpected '[', expecting IDENTIFIER or TYPE_IDENTIFIER
+
+} {4.0 8.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 18.0 19.0 20.0 21.0 22.0} {}} {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/doublesync.v} {1 {vlog -work work -stats=none {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/doublesync.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module doublesync
+
+Top level modules:
+	doublesync
+
+} {} {}} {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/LCD_Scope_Encapsulated_pacoblaze_wrapper.v} {1 {vlog -work work -stats=none {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/LCD_Scope_Encapsulated_pacoblaze_wrapper.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module LCD_Scope_Encapsulated_pacoblaze_wrapper
+
+Top level modules:
+	LCD_Scope_Encapsulated_pacoblaze_wrapper
+
+} {} {}} {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/scope_capture.v} {1 {vlog -work work -stats=none {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 1/lab1_template_de1soc/scope_capture.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module scope_capture
+
+Top level modules:
+	scope_capture
+
+} {} {}}

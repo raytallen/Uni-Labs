@@ -1,0 +1,296 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc
+vasync_to_sync
+Z0 DXx6 sv_std 3 std 0 22 <EOTafDcUY:cQeO^ICn]m3
+Z1 !s110 1552657307
+!i10b 1
+!s100 =CgXX@k5o7;[98TnkR6Ag0
+IZQcHmD5OTZbf0>V4TYJLE1
+Z2 V`JN@9S9cnhjKRR_L]QIcM3
+Z3 !s105 ksa_sv_unit
+S1
+Z4 dC:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc_2
+Z5 w1552657175
+Z6 8C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc_2/ksa.sv
+Z7 FC:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc_2/ksa.sv
+L0 75
+Z8 OV;L;10.3c;59
+r1
+!s85 0
+31
+Z9 !s108 1552657307.812000
+Z10 !s107 C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc_2/ksa.sv|
+Z11 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc_2/ksa.sv|
+!i113 1
+Z12 o-work work -sv
+vcompare3_tb
+!s110 1570423273
+!i10b 1
+!s100 aN7NSECP=;S1_hhdamjmN0
+I_fP^L@@`_Tn^[a:o?Vo=V2
+R2
+R4
+w1461351892
+8C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 3/picoblaze_activity_template_de2/pacoblaze/compare3_tb.v
+FC:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 3/picoblaze_activity_template_de2/pacoblaze/compare3_tb.v
+L0 22
+R8
+r1
+!s85 0
+31
+!s108 1570423273.731000
+!s107 C:\Users\Ray\OneDrive\Documents\School\3rd Year\CPEN 311\Lab 3\picoblaze_activity_template_de2\pacoblaze\pacoblaze_inc.v|C:\Users\Ray\OneDrive\Documents\School\3rd Year\CPEN 311\Lab 3\picoblaze_activity_template_de2\pacoblaze\timescale_inc.v|C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 3/picoblaze_activity_template_de2/pacoblaze/compare3_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 3/picoblaze_activity_template_de2/pacoblaze/compare3_tb.v|
+!i113 1
+Z13 o-work work
+vdecode_algorithm
+R0
+R1
+!i10b 1
+!s100 A<kV^cn;_oRlDNINmEC;m2
+IICKPQmW`:HCg2HN?i]kK:3
+R2
+Z14 !s105 FSM_sv_unit
+S1
+R4
+Z15 w1552656053
+Z16 8C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc_2/FSM.sv
+Z17 FC:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc_2/FSM.sv
+L0 59
+R8
+r1
+!s85 0
+31
+Z18 !s108 1552657307.727000
+Z19 !s107 C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc_2/FSM.sv|
+Z20 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc_2/FSM.sv|
+!i113 1
+R12
+vdecrypt_core
+R0
+R1
+!i10b 1
+!s100 Kj3YRi>MhZ65=`@aB8V_B3
+I_B1_[z<VYP1WCJD9X7n^=3
+R2
+!s105 decrypt_core_sv_unit
+S1
+R4
+w1552653136
+8C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc_2/decrypt_core.sv
+FC:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc_2/decrypt_core.sv
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1552657307.549000
+!s107 C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc_2/decrypt_core.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc_2/decrypt_core.sv|
+!i113 1
+R12
+vfakeMem
+R0
+R1
+!i10b 1
+!s100 ]ZigaS@BI2<Bf_goK2kCg1
+I6;9oMmZige^IQW^4Tkb883
+R2
+!s105 fakeMem_sv_unit
+S1
+R4
+w1552590926
+8C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc_2/fakeMem.sv
+FC:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc_2/fakeMem.sv
+L0 5
+R8
+r1
+!s85 0
+31
+!s108 1552657307.649000
+!s107 C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc_2/fakeMem.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc_2/fakeMem.sv|
+!i113 1
+R12
+nfake@mem
+vinitialize_memory
+R0
+R1
+!i10b 1
+!s100 Tz=M4TM^N3C1EeIMU^U]e3
+IDW>LY4oR3Pll3YbU_o5fF1
+R2
+R14
+S1
+R4
+R15
+R16
+R17
+L0 2
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 1
+R12
+vinitialize_memory_TB
+R1
+!i10b 1
+!s100 c8UjF_1j>>h1m5bnhBAke1
+IY`QW1bX0CGl9:CiZ1k@Vz2
+R2
+R4
+Z21 w1552657302
+Z22 8C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc_2/testbenches.v
+Z23 FC:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc_2/testbenches.v
+L0 1
+R8
+r1
+!s85 0
+31
+Z24 !s108 1552657307.464000
+Z25 !s107 C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc_2/testbenches.v|
+Z26 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc_2/testbenches.v|
+!i113 1
+R13
+ninitialize_memory_@t@b
+vksa
+R0
+R1
+!i10b 1
+!s100 EiFOgjOR8`_]ACNA1W>;m1
+I`U3_bM`g9C:]U;YEW5j@92
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+vKSA_TB
+R1
+!i10b 1
+!s100 Y`Fd264<aX50f2ejcEW<;0
+I3@QFM_g1`d[LC<j?3YeI>0
+R2
+R4
+R21
+R22
+R23
+L0 23
+R8
+r1
+!s85 0
+31
+R24
+R25
+R26
+!i113 1
+R13
+n@k@s@a_@t@b
+vreg_async
+R0
+R1
+!i10b 1
+!s100 E74Xbe58coL_R=Pf0f6Y83
+IJ^[dZ97Bo;H9Gc7Y5nKo60
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 64
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+Es_memory
+Z27 w1552627666
+Z28 DPx9 altera_mf 20 altera_mf_components 0 22 BcHSMKj:G1nRHbg_[4bW[2
+Z29 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z30 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R4
+Z31 8C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc_2/s_memory.vhd
+Z32 FC:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc_2/s_memory.vhd
+l0
+L43
+VXKzo?dh0lnCJjZXXT]jT03
+!s100 9WiX`8TLLcnQTTnlSQNgU2
+Z33 OV;C;10.3c;59
+32
+R1
+!i10b 1
+Z34 !s108 1552657307.912000
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc_2/s_memory.vhd|
+Z36 !s107 C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc_2/s_memory.vhd|
+!i113 1
+Z37 o-work work -2002 -explicit
+Z38 tExplicit 1
+Asyn
+R28
+R29
+R30
+DEx4 work 8 s_memory 0 22 XKzo?dh0lnCJjZXXT]jT03
+l59
+L55
+VJG>C@Sh1obo4;GJ]4SRzW2
+!s100 V6CHNRJ=8@9GA3Q3=C1HO2
+R33
+32
+R1
+!i10b 1
+R34
+R35
+R36
+!i113 1
+R37
+R38
+vSevenSegmentDisplayDecoder
+!s110 1552657308
+!i10b 1
+!s100 04cdEA1ld]g_`l4zO2j1S0
+IA?3Rn47fnim@9jUCFWnY22
+R2
+R4
+w1552625217
+8C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc_2/SevenSegmentDisplayDecoder.v
+FC:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc_2/SevenSegmentDisplayDecoder.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1552657308.398000
+!s107 C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc_2/SevenSegmentDisplayDecoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 4/template_de1soc_2/SevenSegmentDisplayDecoder.v|
+!i113 1
+R13
+n@seven@segment@display@decoder

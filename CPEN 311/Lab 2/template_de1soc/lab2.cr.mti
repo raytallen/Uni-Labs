@@ -1,0 +1,122 @@
+{C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/modules.v} {1 {vlog -work work -stats=none {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/modules.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module read_flash_FSM
+-- Compiling module address_counter
+-- Compiling module control
+
+Top level modules:
+	read_flash_FSM
+	address_counter
+	control
+
+} {} {}} {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/simple_ipod_solution.v} {0 {vlog -work work -stats=none {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/simple_ipod_solution.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module simple_ipod_solution
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/simple_ipod_solution.v(125): near ";": Syntax error.
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/simple_ipod_solution.v(128): (vlog-2730) Undefined variable: 'LED'.
+
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/simple_ipod_solution.v(272): near ")": syntax error, unexpected ')', expecting .* or '.'
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/simple_ipod_solution.v(284): (vlog-2388) 'flash_mem_read' already declared in this scope (simple_ipod_solution).
+
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/simple_ipod_solution.v(285): (vlog-2388) 'flash_mem_waitrequest' already declared in this scope (simple_ipod_solution).
+
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/simple_ipod_solution.v(286): (vlog-2388) 'flash_mem_address' already declared in this scope (simple_ipod_solution).
+
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/simple_ipod_solution.v(287): (vlog-2388) 'flash_mem_readdata' already declared in this scope (simple_ipod_solution).
+
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/simple_ipod_solution.v(288): (vlog-2388) 'flash_mem_readdatavalid' already declared in this scope (simple_ipod_solution).
+
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/simple_ipod_solution.v(337): (vlog-2388) 'kbd_received_ascii_code' already declared in this scope (simple_ipod_solution).
+
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/simple_ipod_solution.v(422): near ";": Syntax error.
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/simple_ipod_solution.v(423): near ";": Syntax error.
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/simple_ipod_solution.v(497): (vlog-2388) 'speed_up_event' already declared in this scope (simple_ipod_solution).
+
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/simple_ipod_solution.v(497): (vlog-2388) 'speed_down_event' already declared in this scope (simple_ipod_solution).
+
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/simple_ipod_solution.v(538): (vlog-2730) Undefined variable: 'speed_up_event_trigger'.
+
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/simple_ipod_solution.v(543): (vlog-2730) Undefined variable: 'speed_down_event_trigger'.
+
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/simple_ipod_solution.v(555): (vlog-2388) 'speed_up_event_trigger' already declared in this scope (simple_ipod_solution).
+
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/simple_ipod_solution.v(556): (vlog-2388) 'speed_down_event_trigger' already declared in this scope (simple_ipod_solution).
+
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/simple_ipod_solution.v(579): (vlog-2388) 'speed_reset_event' already declared in this scope (simple_ipod_solution).
+
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/simple_ipod_solution.v(601): near "[": syntax error, unexpected '[', expecting IDENTIFIER or TYPE_IDENTIFIER
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/simple_ipod_solution.v(612): near "[": syntax error, unexpected '[', expecting IDENTIFIER or TYPE_IDENTIFIER
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/simple_ipod_solution.v(615): (vlog-2730) Undefined variable: 'Seven_Seg_Val'.
+
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/simple_ipod_solution.v(615): (vlog-2730) Undefined variable: 'Seven_Seg_Data'.
+
+** Error: C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/simple_ipod_solution.v(640): near "[": syntax error, unexpected '[', expecting IDENTIFIER or TYPE_IDENTIFIER
+
+} {4.0 6.0 7.0 9.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 18.0 19.0 20.0 23.0 24.0 25.0 26.0 27.0 28.0 29.0 30.0 31.0 32.0 33.0 34.0 35.0 36.0 39.0 40.0 41.0 42.0 43.0} {}} {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/Kbd_ctrl.v} {1 {vlog -work work -stats=none {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/Kbd_ctrl.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module Kbd_ctrl
+
+Top level modules:
+	Kbd_ctrl
+
+} {} {}} {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/Write_Kbd_To_LCD.v} {1 {vlog -work work -stats=none {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/Write_Kbd_To_LCD.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module Write_Kbd_To_LCD
+
+Top level modules:
+	Write_Kbd_To_LCD
+
+} {} {}} {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/widereg.v} {1 {vlog -work work -stats=none {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/widereg.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module widereg
+
+Top level modules:
+	widereg
+
+} {} {}} {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/testbenches.v} {1 {vlog -work work -stats=none {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/testbenches.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module address_counter_tb
+-- Compiling module read_flash_FSM_tb
+-- Compiling module control_tb
+
+Top level modules:
+	address_counter_tb
+	read_flash_FSM_tb
+	control_tb
+
+} {} {}} {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/LCD_Scope_Encapsulated_pacoblaze_wrapper.v} {1 {vlog -work work -stats=none {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/LCD_Scope_Encapsulated_pacoblaze_wrapper.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module LCD_Scope_Encapsulated_pacoblaze_wrapper
+
+Top level modules:
+	LCD_Scope_Encapsulated_pacoblaze_wrapper
+
+} {} {}} {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/key2ascii.v} {1 {vlog -work work -stats=none {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/key2ascii.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module key2ascii
+
+Top level modules:
+	key2ascii
+
+} {} {}} {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/Generate_Arbitrary_Divided_Clk32.v} {1 {vlog -work work -stats=none {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/Generate_Arbitrary_Divided_Clk32.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module Generate_Arbitrary_Divided_Clk32
+
+Top level modules:
+	Generate_Arbitrary_Divided_Clk32
+
+} {} {}} {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/doublesync.v} {1 {vlog -work work -stats=none {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/doublesync.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module doublesync
+
+Top level modules:
+	doublesync
+
+} {} {}} {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/Write_Kbd_To_Scope_LCD.v} {1 {vlog -work work -stats=none {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Lab 2/template_de1soc/Write_Kbd_To_Scope_LCD.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module Write_Kbd_To_Scope_LCD
+
+Top level modules:
+	Write_Kbd_To_Scope_LCD
+
+} {} {}}

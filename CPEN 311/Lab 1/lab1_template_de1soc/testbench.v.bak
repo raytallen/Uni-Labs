@@ -1,0 +1,24 @@
+`timescale 1ns / 1ps
+module lab1_tb();
+    Basic_Organ_Solution DUT();
+
+endmodule
+
+module Generate_Arbitrary_Divided_Clk32_TB();
+    reg inclk, Reset;
+    reg [31:0] div_clk_count;
+    wire outclk, outclk_Not;
+
+    Generate_Arbitrary_Divided_Clk32 DUT(.inclk(inclk), .Reset(Reset), .div_clk_count(div_clk_count), .outclk(outclk), .outclk_Not(outclk_Not));
+
+    initial begin
+	inclk = 0;
+        forever begin
+            inclk = 1; #1;
+            inclk = 0; #1;
+        end
+    end
+
+
+
+endmodule

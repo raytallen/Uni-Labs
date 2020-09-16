@@ -1,0 +1,10 @@
+{C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Assignment 1/question7.v} {1 {vlog -work work -stats=none {C:/Users/Ray/OneDrive/Documents/School/3rd Year/CPEN 311/Assignment 1/question7.v}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module reg_async
+-- Compiling module question7
+-- Compiling module question7_tb
+
+Top level modules:
+	question7_tb
+
+} {} {}}
