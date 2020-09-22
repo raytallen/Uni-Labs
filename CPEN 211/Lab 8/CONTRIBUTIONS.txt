@@ -1,0 +1,6 @@
+`DEFINE PARTNER_ONE RAY_ALLEN
+`DEFINE PARTNER_TWO WESLEY_BRITTON
+
+PARNTER_ONE and PARTNER_TWO worked together on the lab remotely through Skype screen sharing. The files were sent back and forth so that both parnters had a chance to edit code. Together, PARTNER_ONE and PARTNER_TWO spent 8 hours on SKype to finish the lab.
+
+The files for Lab 7 were borrowed from Will Lee and Emily Wong.
