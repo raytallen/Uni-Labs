@@ -1,0 +1,279 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera/15.0
+vdetectwin_tb
+Z0 !s110 1506382690
+!i10b 1
+!s100 94UPf?NBbUVHe5V[j>N0k0
+I0geVhHE5]KQmQIh6=dAd93
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z2 dC:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3
+w1506382650
+8C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/detectwin_tb.v
+FC:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/detectwin_tb.v
+L0 3
+Z3 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1506382690.376000
+!s107 C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/detectwin_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/detectwin_tb.v|
+!i113 1
+Z4 o-work work
+vDetectWinner
+R0
+!i10b 1
+!s100 jgUnNgGNa^0SWXF_aceXc1
+IZ^VLQ5=5gacaHahhNOUL^1
+R1
+R2
+Z5 w1506273417
+Z6 8C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/detectwin.v
+Z7 FC:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/detectwin.v
+L0 16
+R3
+r1
+!s85 0
+31
+Z8 !s108 1506382690.589000
+Z9 !s107 C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/detectwin.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/detectwin.v|
+!i113 1
+R4
+n@detect@winner
+vEmpty
+R0
+!i10b 1
+!s100 gi>=9lUMXTZ=lT:7TZbY80
+IO<WHk9eW5OUQH:Z`^1L7Q3
+R1
+R2
+Z11 w1506378851
+Z12 8C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/tictactoe.v
+Z13 FC:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/tictactoe.v
+L0 192
+R3
+r1
+!s85 0
+31
+Z14 !s108 1506382690.140000
+Z15 !s107 C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/tictactoe.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/tictactoe.v|
+!i113 1
+R4
+n@empty
+vgameplay_tb
+R0
+!i10b 1
+!s100 8i5f>^S9i2?z36>IlFF8^2
+IQFn:PY>j7DAdmLo;[dDRW2
+R1
+R2
+w1506382641
+8C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/gameplay_tb.v
+FC:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/gameplay_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1506382690.861000
+!s107 C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/gameplay_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/gameplay_tb.v|
+!i113 1
+R4
+vplayadjacentedge
+R0
+!i10b 1
+!s100 0j[;m1=jkG<k@9:Y?oU6k2
+IdiIn2kUIoNjiI9cY];cg]3
+R1
+R2
+R11
+R12
+R13
+L0 111
+R3
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R4
+vRArb
+R0
+!i10b 1
+!s100 hJUM9E38fC0H]hRc`hMZM2
+Ii7<^9Ai5l54k^LJczW]N43
+R1
+R2
+R11
+R12
+R13
+L0 80
+R3
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R4
+n@r@arb
+vSelect4
+R0
+!i10b 1
+!s100 RU_VRXdB<RQMT6?@];;kR1
+IRWR<BIYC2KH@5QdcznMmY2
+R1
+R2
+R11
+R12
+R13
+L0 201
+R3
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R4
+n@select4
+vtestplayajacentedge
+R0
+!i10b 1
+!s100 OH;7=PS_gD`:ceTU7RQGC1
+I`F6DC^Zmd[Hh0^6H>aA;91
+R1
+R2
+R11
+R12
+R13
+L0 122
+R3
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R4
+vTestTic
+R0
+!i10b 1
+!s100 27FQRA6QTaDUR8>A8M7]:0
+IYf7Ma3ah`k<SQe5;__@Z30
+R1
+R2
+R11
+R12
+R13
+L0 212
+R3
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R4
+n@test@tic
+vthreeInARow
+R0
+!i10b 1
+!s100 ?nmb93EQI=_SaR4<IJEBY1
+IjfdMCoY:BgDV?A[V]UWKD3
+R1
+R2
+R5
+R6
+R7
+L0 40
+R3
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R4
+nthree@in@a@row
+vTicTacToe
+R0
+!i10b 1
+!s100 ^]ce5ODoToj>41fNemOK10
+I1cc`]N?YPE?D0ml:3zRXi0
+R1
+R2
+R11
+R12
+R13
+L0 89
+R3
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R4
+n@tic@tac@toe
+vTwoInArray
+R0
+!i10b 1
+!s100 A]^EM=OSCZY0H7flzk8fB1
+I^i^HFMAZ_VSj=7Lz>nRZo1
+R1
+R2
+R11
+R12
+R13
+L0 148
+R3
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R4
+n@two@in@array
+vTwoInRow
+R0
+!i10b 1
+!s100 5iI7l=D09SSV:d]nXH@9h0
+I^27[=_=GQ_jeGmmO2PCZK1
+R1
+R2
+R11
+R12
+R13
+L0 182
+R3
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R4
+n@two@in@row

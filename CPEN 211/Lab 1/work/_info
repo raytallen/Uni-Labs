@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera/15.0
+vlab1_top
+Z0 !s110 1505249221
+!i10b 1
+!s100 ETLE@a5fGV89_Z24LJd4K2
+In@z]I`>T_UGgZakROZ=`D2
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z2 dC:/Users/Ray Allen/Desktop/Lab 1
+w1505181000
+8C:/Users/Ray Allen/Desktop/Lab 1/lab1_top.v
+FC:/Users/Ray Allen/Desktop/Lab 1/lab1_top.v
+L0 1
+Z3 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1505249221.180000
+!s107 C:/Users/Ray Allen/Desktop/Lab 1/lab1_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ray Allen/Desktop/Lab 1/lab1_top.v|
+!i113 1
+Z4 o-work work
+vlab1_top_tb
+R0
+!i10b 1
+!s100 <Nk4XI=LXUM;AEZ:^<ZkB0
+IWAzm>M`JU`6PM;[fMnGBC0
+R1
+R2
+w1505178651
+8C:/Users/Ray Allen/Desktop/Lab 1/lab1_top_tb.v
+FC:/Users/Ray Allen/Desktop/Lab 1/lab1_top_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1505249221.455000
+!s107 C:/Users/Ray Allen/Desktop/Lab 1/lab1_top_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ray Allen/Desktop/Lab 1/lab1_top_tb.v|
+!i113 1
+R4

@@ -1,0 +1,61 @@
+/*
+Author:     Ray Allen
+Assignment: Lab 4
+Class:      CPEN 211 L1B
+
+Yeah this thing does stuff
+*/
+
+`define state_width 3
+`define S1 3'b000
+`define S2 3'b001
+`define S3 3'b010
+`define S4 3'b011
+`define S5 3'b100
+
+module lab4_top(input [9:0] SW,input [3:0] KEY, output reg [6:0] HEX0);
+    
+    wire in_button, reset, direction_switch;
+    assign in_button = ~KEY[1];
+    assign reset = ~KEY[0];
+    assign direction_switch = SW[0];
+
+    reg [2:0] present_state, next_state;
+
+    //Clock for state machine is triggered by either in_button or reset button presses
+
+
+    always @ (*) begin
+
+        //If reset button is pressed, goes back to first state
+        if (reset) begin
+        present_state = `S1;
+        next_state = `S1;
+        HEX0[6:0] = 7'b0000000;
+        end
+
+        //Sets the next state depending on the present state and what input is recieved
+        case (present_state)
+            `S1:    if(in_button == 1'b1) next_state = `S2;
+                    else next_state = `S1;
+            `S2:    if(in_button == 1'b1) next_state = `S2;
+                    else next_state = `S1;
+	endcase
+
+        //Sets the output depending on the present state
+        case (present_state)
+            `S1:    HEX0[6:0] = 7'b0000000;
+            //etc etc
+        endcase
+
+        //Sets the present state to the next state, moves everything to the next state
+        present_state = next_state;
+    end
+endmodule
+
+/*INCOMPLETE LOL
+module FSM_Testbench;
+    //
+    reg in_button, reset, err;
+    wire display_out;
+endmodule*/

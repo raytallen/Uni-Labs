@@ -1,0 +1,71 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera/15.0
+vFSM_Testbench
+!s110 1506994730
+!i10b 1
+!s100 HX:JbPZ4=aG6VADY[dUO`0
+IGgE]S8f^3?bC_^_kLHl433
+Z0 V`JN@9S9cnhjKRR_L]QIcM3
+Z1 dC:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 4
+w1506994708
+Z2 8C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 4/lab4_top_tb.v
+Z3 FC:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 4/lab4_top_tb.v
+L0 1
+Z4 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1506994730.772000
+!s107 C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 4/lab4_top_tb.v|
+Z5 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 4/lab4_top_tb.v|
+!i113 1
+Z6 o-work work
+n@f@s@m_@testbench
+vlab4_top
+Z7 !s110 1506995057
+!i10b 1
+!s100 S8g@Y<S>PjDzJPcGb93`Z3
+ISW<?d9CFVljKbV?[8eLJ[3
+R0
+R1
+w1506994673
+8C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 4/lab4_top.v
+FC:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 4/lab4_top.v
+L0 13
+R4
+r1
+!s85 0
+31
+!s108 1506995057.330000
+!s107 C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 4/lab4_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 4/lab4_top.v|
+!i113 1
+R6
+vlab4_top_tb
+R7
+!i10b 1
+!s100 5LLL_g]@nME4YGo8CBRMP2
+I`^mT;T360b9;]:U4LU_8Y1
+R0
+R1
+w1506995048
+R2
+R3
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1506995057.415000
+!s107 C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 4/lab4_top_tb.v|
+R5
+!i113 1
+R6

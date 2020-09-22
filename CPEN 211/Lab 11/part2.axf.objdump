@@ -1,0 +1,341 @@
+
+C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab Git/Labs/Lab 11/part2.axf:     file format elf32-littlearm
+
+
+Disassembly of section .text:
+
+00000040 <__cs3_region_start_ram>:
+zero: 		.double 0.0
+
+.global _start
+_start:
+
+    SUB sp, sp, #28
+  40:	9999999a 	.word	0x9999999a
+  44:	3ff19999 	.word	0x3ff19999
+  48:	33333333 	.word	0x33333333
+  4c:	3ff33333 	.word	0x3ff33333
+  50:	cccccccd 	.word	0xcccccccd
+  54:	3ff4cccc 	.word	0x3ff4cccc
+  58:	cccccccd 	.word	0xcccccccd
+  5c:	4000cccc 	.word	0x4000cccc
+  60:	9999999a 	.word	0x9999999a
+  64:	40019999 	.word	0x40019999
+  68:	66666666 	.word	0x66666666
+  6c:	40026666 	.word	0x40026666
+  70:	cccccccd 	.word	0xcccccccd
+  74:	4008cccc 	.word	0x4008cccc
+  78:	9999999a 	.word	0x9999999a
+  7c:	40099999 	.word	0x40099999
+  80:	66666666 	.word	0x66666666
+  84:	400a6666 	.word	0x400a6666
+
+00000088 <my_array_2>:
+  88:	9999999a 	.word	0x9999999a
+  8c:	3ff19999 	.word	0x3ff19999
+  90:	33333333 	.word	0x33333333
+  94:	3ff33333 	.word	0x3ff33333
+  98:	cccccccd 	.word	0xcccccccd
+  9c:	3ff4cccc 	.word	0x3ff4cccc
+  a0:	cccccccd 	.word	0xcccccccd
+  a4:	4000cccc 	.word	0x4000cccc
+  a8:	9999999a 	.word	0x9999999a
+  ac:	40019999 	.word	0x40019999
+  b0:	66666666 	.word	0x66666666
+  b4:	40026666 	.word	0x40026666
+  b8:	cccccccd 	.word	0xcccccccd
+  bc:	4008cccc 	.word	0x4008cccc
+  c0:	9999999a 	.word	0x9999999a
+  c4:	40099999 	.word	0x40099999
+  c8:	66666666 	.word	0x66666666
+  cc:	400a6666 	.word	0x400a6666
+
+000000d0 <my_array_3>:
+	...
+
+000000d8 <num>:
+	...
+
+000000e0 <arraysize>:
+  e0:	00000003 	.word	0x00000003
+
+000000e4 <zero>:
+	...
+
+000000ec <_start>:
+  ec:	e24dd01c 	sub	sp, sp, #28
+    STR R4, [sp, #0]
+  f0:	e58d4000 	str	r4, [sp]
+    STR R5, [sp, #4]
+  f4:	e58d5004 	str	r5, [sp, #4]
+    STR R6, [sp, #8]
+  f8:	e58d6008 	str	r6, [sp, #8]
+    STR R7, [sp, #16]
+  fc:	e58d7010 	str	r7, [sp, #16]
+    STR R8, [sp, #20]
+ 100:	e58d8014 	str	r8, [sp, #20]
+    STR R9, [sp, #24]
+ 104:	e58d9018 	str	r9, [sp, #24]
+    STR R10, [sp, #28]
+ 108:	e58da01c 	str	r10, [sp, #28]
+    MOV R0, #0				//row position, starts at index 0
+ 10c:	e3a00000 	mov	r0, #0
+    MOV R1, #0				//column position starts at index 0
+ 110:	e3a01000 	mov	r1, #0
+    LDR R2, =my_array_1
+ 114:	e59f20ac 	ldr	r2, [pc, #172]	; 1c8 <done+0x4>
+    LDR R3, =my_array_2
+ 118:	e59f30ac 	ldr	r3, [pc, #172]	; 1cc <done+0x8>
+    LDR R4, =my_array_3
+ 11c:	e59f40ac 	ldr	r4, [pc, #172]	; 1d0 <done+0xc>
+    LDR R6, =arraysize
+ 120:	e59f60ac 	ldr	r6, [pc, #172]	; 1d4 <done+0x10>
+    MOV R7, #0
+ 124:	e3a07000 	mov	r7, #0
+    LDR R9, =my_array_1
+ 128:	e59f9098 	ldr	r9, [pc, #152]	; 1c8 <done+0x4>
+    MOV R11, #0
+ 12c:	e3a0b000 	mov	r11, #0
+    LDR R12, =num
+ 130:	e59fc0a0 	ldr	r12, [pc, #160]	; 1d8 <done+0x14>
+
+00000134 <next_element>:
+
+
+	
+
+next_element:
+	MOV R11, #0			// reset r11
+ 134:	e3a0b000 	mov	r11, #0
+	MOV R10, R3
+ 138:	e1a0a003 	mov	r10, r3
+
+0000013c <calc_position>:
+
+calc_position:
+	ADD R11, R11, #1
+ 13c:	e28bb001 	add	r11, r11, #1
+ 140:	ed920b00 	.word	0xed920b00
+ 144:	ed931b00 	.word	0xed931b00
+ 148:	ed9c3b00 	.word	0xed9c3b00
+ 14c:	ee202b01 	.word	0xee202b01
+ 150:	ee322b03 	.word	0xee322b03
+ 154:	ed9c2b00 	.word	0xed9c2b00
+  	.word 0xED931B00 		// flpt load coproc reg 1 from adress in r3
+  	.word 0xED9C3B00 		// flpt load coproc reg 3 from adress in r12
+  	.word 0xEE202B01		// fl multiply coproc registers r2, r1 , r0
+    	.word 0xEE322B03		// fl add coproc reg r2,r2,r3
+    	.word 0xED9C2B00		// fl store from coproc reg 2 into adress in r12
+    	ADD R2, R2, #8			// move rows over 1 for array 1
+ 158:	e2822008 	add	r2, r2, #8
+   	LDR R7, [R6]			// load array size
+ 15c:	e5967000 	ldr	r7, [r6]
+   	MOV R8, #8			
+ 160:	e3a08008 	mov	r8, #8
+    	MUL R7, R7, R8			// move column down 1 
+ 164:	e0070897 	mul	r7, r7, r8
+    	ADD R3, R7, R3			
+ 168:	e0873003 	add	r3, r7, r3
+	LDR R7, [R6]			// load array size
+ 16c:	e5967000 	ldr	r7, [r6]
+	CMP R11, R7
+ 170:	e15b0007 	cmp	r11, r7
+	BLE calc_position		// if (i=<arraysize) 
+ 174:	dafffff0 	ble	13c <calc_position>
+ 178:	ed942b00 	.word	0xed942b00
+	.word 0xED942B00		// fl store from coproc reg 2 into adress in r4
+	LDR R9, =zero
+ 17c:	e59f9058 	ldr	r9, [pc, #88]	; 1dc <done+0x18>
+ 180:	ed993b00 	.word	0xed993b00
+	.word 0xED993B00		// fl load from R9 to coproc reg 3
+	ADD R4, R4, #8			// move r4 to next position
+ 184:	e2844008 	add	r4, r4, #8
+	MOV R3, R10
+ 188:	e1a0300a 	mov	r3, r10
+
+0000018c <move_row_col>:
+
+
+
+move_row_col:
+	LDR R7, [R6]			
+ 18c:	e5967000 	ldr	r7, [r6]
+	CMP R1, R7			// compare column position with array size
+ 190:	e1510007 	cmp	r1, r7
+	BLT increment_col		// if (i<arraysize) increment columns 
+ 194:	ba000008 	blt	1bc <increment_col>
+	MOV R1, #0			// reset columns
+ 198:	e3a01000 	mov	r1, #0
+	MOV R3, R10               	// reset columns address
+ 19c:	e1a0300a 	mov	r3, r10
+	CMP R0, R7			// check if done
+ 1a0:	e1500007 	cmp	r0, r7
+	BGE done
+ 1a4:	aa000006 	bge	1c4 <done>
+	ADD R0, R0, #1 			// increment rows
+ 1a8:	e2800001 	add	r0, r0, #1
+	MOV R8, #8			
+ 1ac:	e3a08008 	mov	r8, #8
+	MUL R7, R7, R8
+ 1b0:	e0070897 	mul	r7, r7, r8
+	ADD R2, R2, R7			// move rows down
+ 1b4:	e0822007 	add	r2, r2, r7
+	B next_element	
+ 1b8:	eaffffdd 	b	134 <next_element>
+
+000001bc <increment_col>:
+
+increment_col:
+	ADD R3, R3, #8
+ 1bc:	e2833008 	add	r3, r3, #8
+	B next_element	
+ 1c0:	eaffffdb 	b	134 <next_element>
+
+000001c4 <done>:
+	
+
+
+done:	
+	B done				// finished computation
+ 1c4:	eafffffe 	b	1c4 <done>
+ 1c8:	00000040 	.word	0x00000040
+ 1cc:	00000088 	.word	0x00000088
+ 1d0:	000000d0 	.word	0x000000d0
+ 1d4:	000000e0 	.word	0x000000e0
+ 1d8:	000000d8 	.word	0x000000d8
+ 1dc:	000000e4 	.word	0x000000e4
+
+000001e0 <CONFIG_VIRTUAL_MEMORY>:
+      .equ  TRANS_TABLE_N, 0
+      .equ  SECTION_SIZE, 0x100000
+
+      .global CONFIG_VIRTUAL_MEMORY
+CONFIG_VIRTUAL_MEMORY:
+      PUSH {R4-R9}
+ 1e0:	e92d03f0 	push	{r4, r5, r6, r7, r8, r9}
+
+      /* Verify System Control Register contents */
+      MRC p15, 0, R0, c1, c0, 0 /* Read SCTLR into Rt */
+ 1e4:	ee110f10 	mrc	15, 0, r0, cr1, cr0, {0}
+      LDR R1, =0x00C5187A
+ 1e8:	e59f10a8 	ldr	r1, [pc, #168]	; 298 <CPT_RETURN+0x8>
+      CMP R0, R1
+ 1ec:	e1500001 	cmp	r0, r1
+      BNE CPT_ERROR
+ 1f0:	1a000025 	bne	28c <CPT_ERROR>
+
+      LDR R6, =0x100000 /* address to try to read after MMU configured */
+ 1f4:	e3a06601 	mov	r6, #1048576	; 0x100000
+      LDR R7, [R6]      /* R7 is contents of word at physical address 0x100000 */
+ 1f8:	e5967000 	ldr	r7, [r6]
+      LDR R8, =0x200000 /* address to try to read after MMU configured */
+ 1fc:	e3a08602 	mov	r8, #2097152	; 0x200000
+      LDR R9, [R8]      /* R9 has contents of word at physical address 0x200000 */
+ 200:	e5989000 	ldr	r9, [r8]
+
+      /* initialize level 1 translation table */
+               /*1111111111          */
+               /*98765432109876543210*/
+      LDR R1, =0b10000001110000001110    /* lower 20 bits of section descriptor for cacheable sections */
+ 204:	e59f1090 	ldr	r1, [pc, #144]	; 29c <CPT_RETURN+0xc>
+      LDR R2, =0b10000000110000000010    /* lower 20 bits of section descriptor for device sections */
+ 208:	e59f2090 	ldr	r2, [pc, #144]	; 2a0 <CPT_RETURN+0x10>
+      LDR R3, =SECTION_SIZE
+ 20c:	e3a03601 	mov	r3, #1048576	; 0x100000
+      LDR R4, =TRANS_TABLE_0_BASE
+ 210:	e3a04201 	mov	r4, #268435456	; 0x10000000
+      MOV R0, #0  /* loop counter */
+ 214:	e3a00000 	mov	r0, #0
+
+00000218 <CPT_L1>:
+CPT_L1: 
+      MUL   R5, R0, R3                     /* physical address of section */
+ 218:	e0050390 	mul	r5, r0, r3
+      CMP   R0, #UNCACHABLE_START 
+ 21c:	e3500b01 	cmp	r0, #1024	; 0x400
+      ORRLT R5, R5, R1
+ 220:	b1855001 	orrlt	r5, r5, r1
+      ORRGE R5, R5, R2
+ 224:	a1855002 	orrge	r5, r5, r2
+      STR   R5, [R4, R0, LSL #2]
+ 228:	e7845100 	str	r5, [r4, r0, lsl #2]
+      ADD   R0, R0, #1
+ 22c:	e2800001 	add	r0, r0, #1
+      CMP   R0, #0x1000
+ 230:	e3500a01 	cmp	r0, #4096	; 0x1000
+      BLT   CPT_L1
+ 234:	bafffff7 	blt	218 <CPT_L1>
+
+      /* for testing address translation: remap second two pages */
+      ADD R5, R1, R3
+ 238:	e0815003 	add	r5, r1, r3
+      STR R5, [R4, #8]  /* virtual page 2 => physical page 1 */
+ 23c:	e5845008 	str	r5, [r4, #8]
+      ADD R5, R1, R3, LSL #1
+ 240:	e0815083 	add	r5, r1, r3, lsl #1
+      STR R5, [R4, #4]  /* virtual page 1 => physical page 2 */
+ 244:	e5845004 	str	r5, [r4, #4]
+
+      /* set Translation Table Base Control Register */
+      MOV R0, #TRANS_TABLE_N
+ 248:	e3a00000 	mov	r0, #0
+      MCR p15, 0, R0, c2, c0, 2 /* TTBCR.N = 0 */
+ 24c:	ee020f50 	mcr	15, 0, r0, cr2, cr0, {2}
+
+      /* set Translation Table Base Register 0 */
+      LDR R0,=TRANS_TABLE_0_BASE 
+ 250:	e3a00201 	mov	r0, #268435456	; 0x10000000
+      MCR p15, 0, R0, c2, c0, 0 /* TTBR0 = TRANS_TABLE_0_BASE */
+ 254:	ee020f10 	mcr	15, 0, r0, cr2, cr0, {0}
+
+      /* set Domain Access Control Register */
+      MOV R0, #1
+ 258:	e3a00001 	mov	r0, #1
+      MCR p15, 0, R0, c3, c0, 0 /* Domain 0 is client */
+ 25c:	ee030f10 	mcr	15, 0, r0, cr3, cr0, {0}
+
+      /* set Context ID Register */
+      MOV R0, #0
+ 260:	e3a00000 	mov	r0, #0
+      MCR p15, 0, R0, c13, c0, 1 /* PROCID = 0, ACID = 0 */
+ 264:	ee0d0f30 	mcr	15, 0, r0, cr13, cr0, {1}
+
+      /* enable data cache and MMU */
+      MRC p15, 0, R0, c1, c0, 0 /* Read SCTLR into Rt */
+ 268:	ee110f10 	mrc	15, 0, r0, cr1, cr0, {0}
+      ORR R0, R0, #0b101
+ 26c:	e3800005 	orr	r0, r0, #5
+      MCR p15, 0, R0, c1, c0, 0 /* Write Rt to SCTLR */ 
+ 270:	ee010f10 	mcr	15, 0, r0, cr1, cr0, {0}
+
+      ISB
+ 274:	f57ff06f 	isb	sy
+
+      LDR   R1, [R6] /* R1 has contents of memory at virtual address 0x100000 
+ 278:	e5961000 	ldr	r1, [r6]
+                        which should be physical address 0x200000 */
+
+      CMP   R1, R9   /* R1 should match R9 if address translation worked */
+ 27c:	e1510009 	cmp	r1, r9
+      BNE   CPT_ERROR 
+ 280:	1a000001 	bne	28c <CPT_ERROR>
+
+      MOV   R0, #0
+ 284:	e3a00000 	mov	r0, #0
+      B     CPT_RETURN
+ 288:	ea000000 	b	290 <CPT_RETURN>
+
+0000028c <CPT_ERROR>:
+CPT_ERROR:
+      MOV   R0, #1
+ 28c:	e3a00001 	mov	r0, #1
+
+00000290 <CPT_RETURN>:
+CPT_RETURN:
+      POP   {R4-R9}
+ 290:	e8bd03f0 	pop	{r4, r5, r6, r7, r8, r9}
+      BX    LR
+ 294:	e12fff1e 	bx	lr
+ 298:	00c5187a 	.word	0x00c5187a
+ 29c:	00081c0e 	.word	0x00081c0e
+ 2a0:	00080c02 	.word	0x00080c02

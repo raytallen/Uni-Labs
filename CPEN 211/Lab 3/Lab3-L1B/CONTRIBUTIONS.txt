@@ -1,0 +1,8 @@
+Partner contributions for CPEN 211 Lab 3
+
+Partner 1: Ray Allen
+Partner 2: Wesley Britton
+
+Partner 1 wrote (42) lines of code for the detectwin.v as well as (46) lines of code for the detectwin_tb.v testbench, with partner 2 watching over and providing input. Partner 1 and partner 2 spend 1 hour debugging this code and fixed several errors.
+
+Partner 2 wrote the required code in tictac.v while partner 1 watched and provided input. This was approximatly (40) lines of code. Partner 1 and 2 spent several hours debugging and getting the code working. Partner 1 and 2 also spend 1 hour writing the tictac_tb.v file

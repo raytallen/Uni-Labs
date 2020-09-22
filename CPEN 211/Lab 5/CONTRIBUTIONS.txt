@@ -1,0 +1,6 @@
+Partner contributions for CPEN 211 Lab 5
+
+Partner 1: Ray Allen
+Partner 2: Wesley Britton
+
+Partner 1 and partner 2 spent 5 hours together on one laptop during various meetups and took turns to write code while the other provided input. Partner 2 wrote the testbench for lab5_top, partner 1 wrote all other testbenches. Both partners spent an additional 3 hours together debugging in Modelsim and Quartus, before compiling and spending 1 hour testing on the DE1-SOC.

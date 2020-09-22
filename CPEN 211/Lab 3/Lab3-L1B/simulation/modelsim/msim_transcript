@@ -1,0 +1,106 @@
+# Reading C:/altera/15.0/modelsim_ase/tcl/vsim/pref.tcl
+# do lab3_top_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim PE vmap 10.3d Lib Mapping Utility 2014.10 Oct  7 2014
+# vmap -modelsim_quiet work rtl_work 
+# Copying C:/altera/15.0/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:/altera/15.0/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/Ray\ Allen/OneDrive/Documents/School/2nd\ Year/CPEN\ 211/Lab\ 3/lab3 {C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/vga.v}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 00:28:54 on Sep 24,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3" C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/vga.v 
+# -- Compiling module altera_up_avalon_video_vga_timing
+# 
+# Top level modules:
+# 	altera_up_avalon_video_vga_timing
+# End time: 00:28:54 on Sep 24,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Ray\ Allen/OneDrive/Documents/School/2nd\ Year/CPEN\ 211/Lab\ 3/lab3 {C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/tictactoe_to_vga.v}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 00:28:54 on Sep 24,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3" C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/tictactoe_to_vga.v 
+# -- Compiling module TicTacToe_to_VGA
+# -- Compiling module rasterizer
+# -- Compiling module tictactoe_shader
+# -- Compiling module framebuffer
+# 
+# Top level modules:
+# 	TicTacToe_to_VGA
+# End time: 00:28:54 on Sep 24,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Ray\ Allen/OneDrive/Documents/School/2nd\ Year/CPEN\ 211/Lab\ 3/lab3 {C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/tictactoe.v}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 00:28:54 on Sep 24,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3" C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/tictactoe.v 
+# -- Compiling module RArb
+# -- Compiling module TicTacToe
+# -- Compiling module TwoInArray
+# -- Compiling module TwoInRow
+# -- Compiling module Empty
+# -- Compiling module Select3
+# -- Compiling module TestTic
+# 
+# Top level modules:
+# 	TestTic
+# End time: 00:28:54 on Sep 24,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Ray\ Allen/OneDrive/Documents/School/2nd\ Year/CPEN\ 211/Lab\ 3/lab3 {C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/lab3_top.v}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 00:28:54 on Sep 24,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3" C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/lab3_top.v 
+# -- Compiling module lab3_top
+# 
+# Top level modules:
+# 	lab3_top
+# End time: 00:28:54 on Sep 24,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Ray\ Allen/OneDrive/Documents/School/2nd\ Year/CPEN\ 211/Lab\ 3/lab3 {C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/game_state.v}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 00:28:54 on Sep 24,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3" C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/game_state.v 
+# -- Compiling module GameState
+# 
+# Top level modules:
+# 	GameState
+# End time: 00:28:55 on Sep 24,2017, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Ray\ Allen/OneDrive/Documents/School/2nd\ Year/CPEN\ 211/Lab\ 3/lab3 {C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/ff.v}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 00:28:55 on Sep 24,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3" C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/ff.v 
+# -- Compiling module vDFF
+# -- Compiling module vDFFE
+# -- Compiling module ROM
+# -- Compiling module RAM
+# 
+# Top level modules:
+# 	vDFF
+# 	vDFFE
+# 	ROM
+# 	RAM
+# End time: 00:28:55 on Sep 24,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/Ray\ Allen/OneDrive/Documents/School/2nd\ Year/CPEN\ 211/Lab\ 3/lab3 {C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/detectwin.v}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 00:28:55 on Sep 24,2017
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3" C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/detectwin.v 
+# -- Compiling module DetectWinner
+# ** Error: C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/detectwin.v(20): Bounds of part-select into 'ain' are reversed.
+# ** Error: C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/detectwin.v(20): Bounds of part-select into 'bin' are reversed.
+# -- Compiling module threeInARow
+# ** Error: C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/detectwin.v(39): 'Port' must not be declared to be an array: ain.
+# ** Error: C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/detectwin.v(40): near "assign": syntax error, unexpected assign, expecting ';'
+# End time: 00:28:55 on Sep 24,2017, Elapsed time: 0:00:00
+# Errors: 4, Warnings: 0
+# ** Error: C:/altera/15.0/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./lab3_top_run_msim_rtl_verilog.do line 14
+# C:/altera/15.0/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog -vlog01compat -work work +incdir+C:/Users/Ray\ Allen/OneDrive/Documents/School/2nd\ Year/CPEN\ 211/Lab\ 3/lab3 {C:/Users/Ray Allen/OneDrive/Docum..."

@@ -1,0 +1,5 @@
+Info (10281): Verilog HDL Declaration information at datapath.v(7): object "loada" differs only in case from object "loadA" in the same scope
+Info (10281): Verilog HDL Declaration information at datapath.v(7): object "loadb" differs only in case from object "loadB" in the same scope
+Info (10281): Verilog HDL Declaration information at datapath.v(8): object "shift" differs only in case from object "Shift" in the same scope
+Info (10281): Verilog HDL Declaration information at datapath.v(7): object "loadc" differs only in case from object "loadC" in the same scope
+Info (10281): Verilog HDL Declaration information at datapath.v(7): object "loads" differs only in case from object "loadS" in the same scope

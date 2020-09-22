@@ -1,0 +1,353 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Ray Allen/Desktop/New folder
+vALU
+Z0 !s110 1508206729
+!i10b 1
+!s100 gz?YFkX^j9m6ZbF9SKAIg2
+IbLMU5HB`>WF4:ooJD<RiP0
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z2 dC:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5
+w1508186604
+8C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/alu.v
+FC:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/alu.v
+L0 6
+Z3 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1508206729.413000
+!s107 C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/alu.v|
+!i113 1
+Z4 o-work work
+n@a@l@u
+vALU_tb
+R0
+!i10b 1
+!s100 8M8mUb?^T<zK1]8A95nYA0
+I=<nWfVgSQSDXD2Ql:6jdQ0
+R1
+R2
+w1508199813
+8C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/alu_tb.v
+FC:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/alu_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1508206729.961000
+!s107 C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/alu_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/alu_tb.v|
+!i113 1
+R4
+n@a@l@u_tb
+vdatapath
+R0
+!i10b 1
+!s100 MVNOkWXa6^Qjk[DRh<i:J0
+IfcW3lfhgKWRZP3EHYJ@jQ0
+R1
+R2
+Z5 w1508194160
+Z6 8C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/lab5_top.v
+Z7 FC:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/lab5_top.v
+L0 105
+R3
+r1
+!s85 0
+31
+Z8 !s108 1508206729.053000
+Z9 !s107 C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/lab5_top.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/lab5_top.v|
+!i113 1
+R4
+vdatapath_tb
+!s110 1508206728
+!i10b 1
+!s100 1VVBT:iOhoBI4V2DkW??62
+IFMC6cNdHdCS:]:9M>4jj`3
+R1
+R2
+w1508206725
+8C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/lab5_tb.v
+FC:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/lab5_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1508206728.916000
+!s107 C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/lab5_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/lab5_tb.v|
+!i113 1
+R4
+vdecoder
+R0
+!i10b 1
+!s100 0HCEYPBE@>TJma_X=bRGY0
+I<Uae@EhW9=V0<:eNH0_<I3
+R1
+R2
+R5
+R6
+R7
+L0 252
+R3
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R4
+vinput_iface
+R0
+!i10b 1
+!s100 B?^^:^hf516?GHVneg[bJ0
+I7>iFKl9ZBO]7Z@>W?JUkb2
+R1
+R2
+R5
+R6
+R7
+L0 125
+R3
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R4
+vlab5_top
+R0
+!i10b 1
+!s100 40?D;Q3j646zRjPYWJFbB1
+IlS_acQfiVoh_`5:@LK;Pb3
+R1
+R2
+R5
+R6
+R7
+L0 54
+R3
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R4
+vmultiplexer2
+R0
+!i10b 1
+!s100 zFNVjnK>81RZlQJKgMPD41
+IAb8G7nlHd?VXLLnUU:bI42
+R1
+R2
+R5
+R6
+R7
+L0 232
+R3
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R4
+vmultiplexer8
+R0
+!i10b 1
+!s100 OzMcPRTK]g<cPj^Mo:_H80
+IBFc7lTn=dfWZV^0diPcfN0
+R1
+R2
+R5
+R6
+R7
+L0 210
+R3
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R4
+vregister
+R0
+!i10b 1
+!s100 `z9jA`V28?P3o04V@h=IF3
+IbB^Of^g2F<REfKzhD[4Ln3
+R1
+R2
+Z11 w1508185953
+Z12 8C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/regfile.v
+Z13 FC:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/regfile.v
+L0 35
+R3
+r1
+!s85 0
+31
+Z14 !s108 1508206729.205000
+Z15 !s107 C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/regfile.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/regfile.v|
+!i113 1
+R4
+vregister8_file_16bit
+R0
+!i10b 1
+!s100 ]8^2dkcBn;fT9m_UbaZg30
+IJ5l^zbVmDlT7oRX[T8gWd1
+R1
+R2
+R11
+R12
+R13
+L0 5
+R3
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R4
+vregister8_file_16bit_tb
+R0
+!i10b 1
+!s100 >0lK`D[S:S<h<c6@K9U<53
+IZK6;nF[UUNRz1aEKWVUO<3
+R1
+R2
+w1508199567
+Z17 8C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/regfile_tb.v
+Z18 FC:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/regfile_tb.v
+L0 5
+R3
+r1
+!s85 0
+31
+!s108 1508206729.648000
+Z19 !s107 C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/regfile_tb.v|
+Z20 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/regfile_tb.v|
+!i113 1
+R4
+vregister_tb
+!s110 1508185179
+!i10b 1
+!s100 lWeRKbd1hb<7XHK4a5@iJ3
+IAMCU8i^lYWW4@fUVg5<=31
+R1
+R2
+w1508183847
+R17
+R18
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1508185179.704000
+R19
+R20
+!i113 1
+R4
+vshifter16
+R0
+!i10b 1
+!s100 1T:357Z9<<7G]oCBC:hD`3
+IE`SN^CKoaziScm5E12H_60
+R1
+R2
+w1508185174
+8C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/shifter.v
+FC:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/shifter.v
+L0 4
+R3
+r1
+!s85 0
+31
+!s108 1508206729.315000
+!s107 C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/shifter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/shifter.v|
+!i113 1
+R4
+vshifter16_tb
+R0
+!i10b 1
+!s100 ;_UMV5F:9Q7CKY]KSghO00
+I:<T_hG_Y`^Afg>I?<SVJP3
+R1
+R2
+w1508199643
+8C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/shifter_tb.v
+FC:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/shifter_tb.v
+L0 5
+R3
+r1
+!s85 0
+31
+!s108 1508206729.755000
+!s107 C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/shifter_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 5/shifter_tb.v|
+!i113 1
+R4
+vsseg
+R0
+!i10b 1
+!s100 U1Fi:ieZj[0DI>eb;bXIK0
+IY[lii`>N@jGTfGj:aLZie1
+R1
+R2
+R5
+R6
+R7
+L0 181
+R3
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R4
+vvDFF
+R0
+!i10b 1
+!s100 QSXQMR11O0=M0SCT4YJY30
+IF`A9V_iCna>^3_h@ALG9G0
+R1
+R2
+R5
+R6
+R7
+L0 162
+R3
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R4
+nv@d@f@f

@@ -1,0 +1,16 @@
+
+State Machine - |lab4_top|present
+Name present.011 present.010 present.001 present.000 present.100 
+present.000 0 0 0 0 0 
+present.001 0 0 1 1 0 
+present.010 0 1 0 1 0 
+present.011 1 0 0 1 0 
+present.100 0 0 0 1 1 
+
+State Machine - |lab4_top|next
+Name next.011 next.010 next.001 next.000 next.100 
+next.000 0 0 0 0 0 
+next.001 0 0 1 1 0 
+next.010 0 1 0 1 0 
+next.011 1 0 0 1 0 
+next.100 0 0 0 1 1 

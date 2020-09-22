@@ -1,0 +1,34 @@
+
+State Machine - |lab6_top|cpu:U|stateMachine:FSM|next_state
+Name next_state.1101 next_state.1100 next_state.1011 next_state.1010 next_state.1001 next_state.1000 next_state.0111 next_state.0110 next_state.0101 next_state.0100 next_state.0011 next_state.0010 next_state.0001 next_state.0000 
+next_state.0000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+next_state.0001 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+next_state.0010 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
+next_state.0011 0 0 0 0 0 0 0 0 0 0 1 0 0 1 
+next_state.0100 0 0 0 0 0 0 0 0 0 1 0 0 0 1 
+next_state.0101 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+next_state.0110 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
+next_state.0111 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+next_state.1000 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+next_state.1001 0 0 0 0 1 0 0 0 0 0 0 0 0 1 
+next_state.1010 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+next_state.1011 0 0 1 0 0 0 0 0 0 0 0 0 0 1 
+next_state.1100 0 1 0 0 0 0 0 0 0 0 0 0 0 1 
+next_state.1101 1 0 0 0 0 0 0 0 0 0 0 0 0 1 
+
+State Machine - |lab6_top|cpu:U|stateMachine:FSM|present_state
+Name present_state.1101 present_state.1100 present_state.1011 present_state.1010 present_state.1001 present_state.1000 present_state.0111 present_state.0110 present_state.0101 present_state.0100 present_state.0011 present_state.0010 present_state.0001 present_state.0000 
+present_state.0000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+present_state.0001 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+present_state.0010 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
+present_state.0011 0 0 0 0 0 0 0 0 0 0 1 0 0 1 
+present_state.0100 0 0 0 0 0 0 0 0 0 1 0 0 0 1 
+present_state.0101 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+present_state.0110 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
+present_state.0111 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+present_state.1000 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+present_state.1001 0 0 0 0 1 0 0 0 0 0 0 0 0 1 
+present_state.1010 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+present_state.1011 0 0 1 0 0 0 0 0 0 0 0 0 0 1 
+present_state.1100 0 1 0 0 0 0 0 0 0 0 0 0 0 1 
+present_state.1101 1 0 0 0 0 0 0 0 0 0 0 0 0 1 

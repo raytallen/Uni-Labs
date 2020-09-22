@@ -1,0 +1,39 @@
+{C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/detectwin.v} {1 {vlog -work work -stats=none {C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/detectwin.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module DetectWinner
+-- Compiling module threeInARow
+
+Top level modules:
+	DetectWinner
+
+} {} {}} {C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/detectwin_tb.v} {1 {vlog -work work -stats=none {C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/detectwin_tb.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module detectwin_tb
+
+Top level modules:
+	detectwin_tb
+
+} {} {}} {C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/tictactoe.v} {1 {vlog -work work -stats=none {C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/tictactoe.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module RArb
+-- Compiling module TicTacToe
+-- Compiling module playadjacentedge
+-- Compiling module testplayajacentedge
+-- Compiling module TwoInArray
+-- Compiling module TwoInRow
+-- Compiling module Empty
+-- Compiling module Select4
+-- Compiling module TestTic
+
+Top level modules:
+	testplayajacentedge
+	TestTic
+
+} {} {}} {C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/gameplay_tb.v} {1 {vlog -work work -stats=none {C:/Users/Ray Allen/OneDrive/Documents/School/2nd Year/CPEN 211/Lab 3/lab3/gameplay_tb.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module gameplay_tb
+
+Top level modules:
+	gameplay_tb
+
+} {} {}}

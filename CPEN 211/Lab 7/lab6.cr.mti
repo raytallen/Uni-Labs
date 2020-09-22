@@ -1,0 +1,114 @@
+C:/Users/Will/Documents/GitHub/lab6/fsm_tb.v {1 {vlog -work work -stats=none C:/Users/Will/Documents/GitHub/lab6/fsm_tb.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module testfsm
+
+Top level modules:
+	testfsm
+
+} {} {}} C:/Users/Will/Documents/GitHub/lab6/shifter.v {1 {vlog -work work -stats=none C:/Users/Will/Documents/GitHub/lab6/shifter.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module shifter
+
+Top level modules:
+	shifter
+
+} {} {}} C:/Users/Will/Documents/GitHub/lab6/cpu_tb_autograder_example.v {1 {vlog -work work -stats=none C:/Users/Will/Documents/GitHub/lab6/cpu_tb_autograder_example.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module cpu_autograder_example_tb
+
+Top level modules:
+	cpu_autograder_example_tb
+
+} {} {}} C:/Users/Will/Documents/GitHub/lab6/alu_tb.v {1 {vlog -work work -stats=none C:/Users/Will/Documents/GitHub/lab6/alu_tb.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module testalu
+
+Top level modules:
+	testalu
+
+} {} {}} C:/Users/Will/Documents/GitHub/lab6/datapath.v {1 {vlog -work work -stats=none C:/Users/Will/Documents/GitHub/lab6/datapath.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} C:/Users/Will/Documents/GitHub/lab6/lab6_top.v {1 {vlog -work work -stats=none C:/Users/Will/Documents/GitHub/lab6/lab6_top.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module lab6_top
+-- Compiling module input_iface
+-- Compiling module vDFF
+-- Compiling module sseg
+
+Top level modules:
+	lab6_top
+
+} {} {}} C:/Users/Will/Documents/GitHub/lab6/shifter_tb.v {1 {vlog -work work -stats=none C:/Users/Will/Documents/GitHub/lab6/shifter_tb.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module shifter_tb
+
+Top level modules:
+	shifter_tb
+
+} {} {}} C:/Users/Will/Documents/GitHub/lab6/alu.v {1 {vlog -work work -stats=none C:/Users/Will/Documents/GitHub/lab6/alu.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module ALU
+-- Compiling module AddSub
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/Will/Documents/GitHub/lab6/regfile_tb.v {1 {vlog -work work -stats=none C:/Users/Will/Documents/GitHub/lab6/regfile_tb.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module testreg
+
+Top level modules:
+	testreg
+
+} {} {}} C:/Users/Will/Documents/GitHub/lab6/datapath_tb.v {1 {vlog -work work -stats=none C:/Users/Will/Documents/GitHub/lab6/datapath_tb.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module testdatapath
+
+Top level modules:
+	testdatapath
+
+} {} {}} C:/Users/Will/Documents/GitHub/lab6/lab6_top_tb.v {1 {vlog -work work -stats=none C:/Users/Will/Documents/GitHub/lab6/lab6_top_tb.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module testlab6
+
+Top level modules:
+	testlab6
+
+} {} {}} C:/Users/Will/Documents/GitHub/lab6/cpu_tb.v {1 {vlog -work work -stats=none C:/Users/Will/Documents/GitHub/lab6/cpu_tb.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module testcpu
+
+Top level modules:
+	testcpu
+
+} {} {}} C:/Users/Will/Documents/GitHub/lab6/regfile.v {1 {vlog -work work -stats=none C:/Users/Will/Documents/GitHub/lab6/regfile.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module vDFFE
+-- Compiling module DEC
+-- Compiling module MUX2
+-- Compiling module MUX8
+-- Compiling module MUX3
+-- Compiling module MUX4
+-- Compiling module registerFile
+
+Top level modules:
+	MUX2
+	MUX3
+	MUX4
+	registerFile
+
+} {} {}} C:/Users/Will/Documents/GitHub/lab6/cpu.v {1 {vlog -work work -stats=none C:/Users/Will/Documents/GitHub/lab6/cpu.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module cpu
+-- Compiling module instructionDecoder
+-- Compiling module stateMachine
+
+Top level modules:
+	cpu
+
+} {} {}}
