@@ -1,27 +1,29 @@
-
+//functionality of this FSM is decribed in the report
 module train_FSM(
-    input   clk, rst,
-    //door_is_open = 1 when open, 0 when closed
-    input   depart_ready,
-            door_obstruction,
-            door_is_open,
-            near_station, 
-            at_station,
-            track_obstruction,
-    input[7:0] cruise_speed, current_speed, crawl_speed,
+    input           clk, rst,           // clk in seconds. If at anypoint in the future assignments the FSM requires higher speed for
+                                        // certain functions, I will implement a high speed clock and a seperate timer to count seconds.
 
-    output logic    ctrl_door,
-                    ctrl_brake,
-                    ctrl_brake_emergency,
-                    ctrl_motor_accelerate,
-                    ctrl_motor_maintain
+    input           depart_ready,       // High when train should depart station, low otherwise
+                    door_obstruction,   // High when there is something blocking the doors, low when doors are clear
+                    door_is_open,       // High when doors are open, low when doors are closed
+                    near_station,       // High when train is approaching station and should apply brakes, low otherwise
+                    at_station,         // High when train is aligned with platform, low otherwise
+                    track_obstruction,  // High when there is an obstruction on the tracks, low when tracks are clear
+
+    input[7:0]      cruise_speed,       // Preset cruise speed
+                    current_speed,      // Current speed from the train's speed sensor
+                    crawl_speed,        // Preset crawl speed when entering station
+
+    output logic    ctrl_door,          // High to open door, low to close door
+                    ctrl_brake,         // High to apply brakes, low to release brakes
+                    ctrl_brake_emergency,   // High to apply emergency level brakes, low to release brakes
+                    ctrl_motor_accelerate,  // High to accelerate train
+                    ctrl_motor_maintain     // High to signal to motors to maintain current speed
 );
-
-    logic [3:0] count;
 
     //states
     enum {
-        s_idle,
+        s_idle,             //states are described in report
         s_doors_opened,
         s_doors_closing,
         s_doors_closed,
@@ -36,9 +38,11 @@ module train_FSM(
     } state;
 
 
-    //state transitions
+    //state transition logic
     always_ff @(posedge clk) begin
+
         if(rst) state <= s_idle;
+
         else case(state)
 
             s_idle: state <= s_doors_opened;
@@ -73,11 +77,13 @@ module train_FSM(
             s_emergency_brake: if(~track_obstruction) state <= s_accelerate;
 
             s_fault: state <= s_fault;
+
             default: state <= s_fault;
+
         endcase
     end
 
-    //outputs (combinational)
+    //output logic (combinational)
     always_comb begin
         case(state)
             s_idle: begin
@@ -168,6 +174,7 @@ module train_FSM(
                 ctrl_motor_maintain     = 0;
             end
 
+            //shoudn't enter these states
             s_fault: begin
                 ctrl_door               = 1'bz;
                 ctrl_brake              = 1'bz;

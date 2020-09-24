@@ -18,7 +18,7 @@ add wave -noupdate /FSM_tb/ctrl_motor_maintain
 add wave -noupdate /FSM_tb/rst
 add wave -noupdate /FSM_tb/DUT/state
 TreeUpdate [SetDefaultTree]
-WaveRestoreCursors {{Cursor 1} {274957 ms} 0}
+WaveRestoreCursors {{Cursor 1} {81167 ms} 0}
 quietly wave cursor active 1
 configure wave -namecolwidth 221
 configure wave -valuecolwidth 100

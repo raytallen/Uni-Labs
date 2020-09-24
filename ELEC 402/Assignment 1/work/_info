@@ -11,46 +11,46 @@ cModel Technology
 dC:/intelFPGA/20.1
 vFSM_tb
 Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
-!s110 1600918570
+Z1 !s110 1600973534
 !i10b 1
-!s100 MSf;QazEQB[?3B5zdIi?M2
-Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
-InXQ2ZHRBLjK09P^68P1Am3
-Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s100 T]NdcK]T8Ud1>[^INWbS33
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IHCZTQ?i:6J2g@=RbGl@J;0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
 S1
-Z3 dC:/Users/rayte/Documents/Uni-Labs/ELEC 402/Assignment 1
-w1600918551
+Z4 dC:/Users/rayte/Documents/Uni-Labs/ELEC 402/Assignment 1
+w1600973491
 8C:/Users/rayte/Documents/Uni-Labs/ELEC 402/Assignment 1/fsm_tb.sv
 FC:/Users/rayte/Documents/Uni-Labs/ELEC 402/Assignment 1/fsm_tb.sv
-!i122 92
-L0 3 169
-Z4 OV;L;2020.1;71
+!i122 96
+L0 3 171
+Z5 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z5 !s108 1600918569.000000
+Z6 !s108 1600973534.000000
 !s107 C:/Users/rayte/Documents/Uni-Labs/ELEC 402/Assignment 1/fsm_tb.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/rayte/Documents/Uni-Labs/ELEC 402/Assignment 1/fsm_tb.sv|
 !i113 1
-Z6 o-work work -sv
-Z7 tCvgOpt 0
+Z7 o-work work -sv
+Z8 tCvgOpt 0
 n@f@s@m_tb
 vtimer
 R0
 !s110 1600889168
 !i10b 1
 !s100 BMY@R?K<J11?C5cF4nUeQ0
-R1
-I^T5PFZlW6<EbOF3ZhKEkR1
 R2
-S1
+I^T5PFZlW6<EbOF3ZhKEkR1
 R3
+S1
+R4
 w1600889165
 8C:/Users/rayte/Documents/Uni-Labs/ELEC 402/Assignment 1/main.sv
 FC:/Users/rayte/Documents/Uni-Labs/ELEC 402/Assignment 1/main.sv
 !i122 6
 L0 8 6
-R4
+R5
 r1
 !s85 0
 31
@@ -58,31 +58,31 @@ r1
 !s107 C:/Users/rayte/Documents/Uni-Labs/ELEC 402/Assignment 1/main.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/rayte/Documents/Uni-Labs/ELEC 402/Assignment 1/main.sv|
 !i113 1
-R6
 R7
+R8
 vtrain_FSM
 R0
-!s110 1600918569
-!i10b 1
-!s100 K3VJcMKD^<=AI2G`B`D=f3
 R1
-IT;J0_?I@nTaD@HoU>Ph]a3
+!i10b 1
+!s100 b<Xj3[CcMW9COmZl[;==K3
 R2
-S1
+IKGz4zjmfL0JF9Ug?8VeEC1
 R3
-w1600917932
+S1
+R4
+w1600973389
 8C:/Users/rayte/Documents/Uni-Labs/ELEC 402/Assignment 1/fsm.sv
 FC:/Users/rayte/Documents/Uni-Labs/ELEC 402/Assignment 1/fsm.sv
-!i122 91
-L0 2 187
-R4
+!i122 95
+L0 1 187
+R5
 r1
 !s85 0
 31
-R5
+R6
 !s107 C:/Users/rayte/Documents/Uni-Labs/ELEC 402/Assignment 1/fsm.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/rayte/Documents/Uni-Labs/ELEC 402/Assignment 1/fsm.sv|
 !i113 1
-R6
 R7
+R8
 ntrain_@f@s@m

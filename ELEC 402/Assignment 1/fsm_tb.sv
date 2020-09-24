@@ -1,5 +1,10 @@
-`timescale 1s/1ms
+/*
+Description:    This testbench is meant to simulate some basic functions of a train for the train controller FSM.
+                Given certain outputs from the FSM, it will feedback information from "sensors" back to the FSM,
+                which will respond accordingly.
+*/
 
+`timescale 1s/1ms
 module FSM_tb();
     //clock and reset
     logic   clk, rst;
@@ -61,16 +66,13 @@ module FSM_tb();
         crawl_speed = 5; //crawl speed to align with station when arriving
         #30;
 
-        //signal to train it may close doors and leave station
+        //signal to FSM that it may close doors and leave station
         depart_ready = 1;
 
-        //wait for door close signal
-        while(1) begin
-            if(ctrl_door == 0) break;
-            else #1;
-        end
+        //testbench will wait for door close signal from FSM
+        while(ctrl_door == 1) #1;
 
-        //doors closing
+        //testbench takes 10s to close doors
         #10; door_is_open = 0;
 
         //wait for FSM to enable motor acceleration
