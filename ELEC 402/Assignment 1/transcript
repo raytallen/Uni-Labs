@@ -9,3 +9,5 @@ run -all
 # ** Note: $stop    : C:/Users/rayte/Documents/Uni-Labs/ELEC 402/Assignment 1/fsm_tb.sv(171)
 #    Time: 308 sec  Iteration: 0  Instance: /FSM_tb
 # Break in Module FSM_tb at C:/Users/rayte/Documents/Uni-Labs/ELEC 402/Assignment 1/fsm_tb.sv line 171
+# End time: 12:51:50 on Sep 24,2020, Elapsed time: 0:59:08
+# Errors: 0, Warnings: 1
